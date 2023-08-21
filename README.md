@@ -5,8 +5,11 @@
 
 - Framework & Library : **React.js, Next.js**
 
-- Dev & Interest Blog : [https://mozzang.tistory.com/](https://mozzang.tistory.com/)
+- Blog : [https://mozzang.tistory.com/](https://mozzang.tistory.com/)
 
 - Working position : **FrontEnd Developer**
 
 - Email : **kbear0938@gmail.com**
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoZZANG)](https://github.com/anuraghazra/github-readme-stats)
