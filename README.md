@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kimoon Kim</h1>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000style=flat-square&&logo=NextJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000style=flat-square&&logo=NextJS&logoColor=white"/>
 - programming language : **TypeScript, JavasScript**
 
 - Framework & Library : **React.js, Next.js**
